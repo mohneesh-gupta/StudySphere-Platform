@@ -31,7 +31,3 @@ Study-Sphere is a collaborative learning platform designed to **centralize educa
 - **Database:** MongoDB / PostgreSQL  
 - **Authentication:** Firebase / JWT  
 
----
-
-## 📂 Project Structure
-
